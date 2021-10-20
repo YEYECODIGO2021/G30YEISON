@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AlquilercomputadoresApplication<alquilercomputadores>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.g30.alquiler.computadores.AlquilercomputadoresApplication",
+            "projectName": "alquilercomputadores",
+            "args": ""
+        }
+    ]
+}
